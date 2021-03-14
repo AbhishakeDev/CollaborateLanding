@@ -1,3 +1,6 @@
+# View the deployed version of the website
+Open [https://abhitrip13.github.io/CollaborateLanding/](https://abhitrip13.github.io/CollaborateLanding/)
+
 <!-- Please update value in the {}  -->
 
 <h1 align="center">{Your project name}</h1>
