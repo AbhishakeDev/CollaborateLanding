@@ -1,5 +1,5 @@
 # View the deployed version of the website
-Open [https://AbhishakeDev.github.io/CollaborateLanding/](https://abhitrip13.github.io/CollaborateLanding/)
+Open [https://abhishakedev.github.io/CollaborateLanding/](https://abhitrip13.github.io/CollaborateLanding/)
 
 <!-- Please update value in the {}  -->
 
